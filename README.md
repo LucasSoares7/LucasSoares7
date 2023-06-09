@@ -1,0 +1,1 @@
+Olá a todos, me chamo Lucas e atualmente, estou cursando a graduação em Análise e Desenvolvimento de Sistemas na UNA Betim. Ao longo dos anos, adquiri conhecimentos em programação, desenvolvimento de software e outras áreas relacionadas à tecnologia da informação. Estou entusiasmado em continuar aprendendo e me desenvolvendo profissionalmente na minha carreira em TI.
