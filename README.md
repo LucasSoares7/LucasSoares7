@@ -22,4 +22,4 @@
 Apaixonado por tecnologia, educação e mudar vidas das pessoas através da programação.
 
 ### E-mail para contato
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("lucasalexandresoares7@gmail.com")
+<a href = "lucasalexandresoares7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
