@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasalexandresoares/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_alexandresoares/)
 
- ![LucasSoares7 GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSoares7&show_icons=true&theme=radical)
+ ![LucasSoares7 GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSoares7_icons=true&theme=radical)
 
 ### Tecnologias que eu utilizo diariamente
 
