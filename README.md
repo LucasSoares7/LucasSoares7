@@ -5,7 +5,7 @@
 
 ![LucasSoares7 GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSoares7&show_icons=true&theme=radical)
 
-### Tecnologias que eu utilizo diariamente
+### Tecnologias que eu utilizo diariamente:
 
 <div style ="display inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -22,7 +22,7 @@
 
 </div><br/>
 
-### Banco de dados
+### Banco de dados que utilizo:
 
 <div style="display inline_block"><br/>
 <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
