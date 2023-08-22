@@ -28,7 +28,7 @@
 <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
  </div><br/>
 
-Apaixonado por tecnologia, educação e mudar vidas das pessoas através da programação.
+Apaixonado por tecnologia, educação e mudar vidas das pessoas através da tecnologia.
 
 ### E-mail para contato
 <div>
