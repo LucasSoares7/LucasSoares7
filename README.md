@@ -28,5 +28,5 @@ Apaixonado por tecnologia, educação e mudar vidas das pessoas através da tecn
 
 ### E-mail para contato
 <div>
-<a href =" mailto:lucasalexandresoares7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href ="mailto:lucasalexandresoares7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
