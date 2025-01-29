@@ -4,7 +4,7 @@
 
 Me chamo Lucas Soares, tenho 21 anos e sou natural de Minas Gerais. Sou apaixonado por Tecnologia da Informação e atualmente estou em formação em Análise e Desenvolvimento de Sistemas na Una Betim. Com experiência como assessor administrativo, busco aplicar minha paixão e conhecimentos para criar soluções inovadoras na área de TI. Estando sempre em busca de novos desafios e aprendizado contínuo, pronto para contribuir com projetos alto desempenho. 
 
-  
+  <p align="left">
     </a> 
     <a href="https://github.com/LucasSoares7?tab=repositories&sort=stargazers">
         <img 
@@ -50,6 +50,15 @@ Me chamo Lucas Soares, tenho 21 anos e sou natural de Minas Gerais. Sou apaixona
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+  align="left"
+  alt="java"
+  title="Java"
+  width="30px"
+  style="padding-right"
+  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+  />
+
 <img 
     align="left" 
     alt="TypeScript"
