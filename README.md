@@ -113,7 +113,6 @@ Me chamo Lucas Alexandre Soares, tenho 21 anos e sou natural de Minas Gerais. So
     src="https://github-readme-stats.vercel.app/api?username=LucasSoares7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     />
     
-
 <img 
       align="left" 
       alt="GitHub Stats" 
