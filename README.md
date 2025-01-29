@@ -4,6 +4,10 @@
 
 Me chamo Lucas Alexandre Soares, tenho 21 anos e sou natural de Minas Gerais. Sou apaixonado por Tecnologia da Informação e atualmente estou em formação em Análise e Desenvolvimento de Sistemas na Una Betim. Com experiência como assessor administrativo, busco aplicar minha paixão e conhecimentos para criar soluções inovadoras na área de TI. Estando sempre em busca de novos desafios e aprendizado contínuo, pronto para contribuir com projetos alto desempenho. 
 
+## Contato
+
+<a href = "mailto:lucasalexandresoaress@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
   <p align="left">
     </a> 
     <a href="https://github.com/LucasSoares7?tab=repositories&sort=stargazers">
@@ -115,10 +119,3 @@ Me chamo Lucas Alexandre Soares, tenho 21 anos e sou natural de Minas Gerais. So
   />
 
 </p>
-
-<p>
-  ## Contato
-
-<a href = "mailto:lucasalexandresoaress@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
-
